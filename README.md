@@ -1,5 +1,5 @@
 # terms-and-conditions
-
+<h1><strong>TERMS AND CONDITIONS&nbsp;</strong></h1>
 <div>
 <div>
 <p><strong>TERMS AND CONDITIONS&nbsp;</strong></p>
