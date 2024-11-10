@@ -8,7 +8,7 @@
 <p>1 Definitions and Interpretation</p>
 <p>1.1 Definitions</p>
 <p>In this Agreement:</p>
-<p>&ldquo;Business Day&rdquo; means a day which is not a Saturday, Sunday or bank or public holiday in Victoria.</p>
+<p>&ldquo;Business Day&rdquo; means a day which is not a Saturday, Sunday or bank or public holiday in New South Wales.</p>
 <p>&ldquo;Betting Bank Account&rdquo; means a new bank account set up in your name with your ID that is used only to make deposits into and withdrawals out of betting accounts as part of Thunder Punting&rsquo;s daily operations.</p>
 <p>&ldquo;Parties&rdquo; means the parties entering into this Agreement.</p>
 <p>&ldquo;Thunder Punting&rdquo;, &ldquo;https://www.facebook.com/profile.php?id=61567402565279&rdquo; &lsquo;we&rsquo;, &lsquo;us&rsquo;, or &lsquo;our&rsquo; means Thunder&nbsp;Punting</p>
